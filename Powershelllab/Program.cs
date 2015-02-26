@@ -12,6 +12,7 @@ namespace Powershelllab
 
         public static void Main(string[] args)
         {
+            // Testing 
 
             WSManConnectionInfo connectionInfo = new WSManConnectionInfo();
             
